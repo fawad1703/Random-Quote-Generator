@@ -1,0 +1,45 @@
+body{
+  background-color:black;
+}
+h1{
+  color:white;
+  font-family:'Fruktur';
+  font-size:50px;
+}
+p{
+  color:white;
+  font-size:26px;
+  font-family: 'Irish Grover'  
+}
+
+.btn{
+  margin-bottom:40px;
+  border-radius:10px;
+  padding:20px;
+  font-size:16px;
+  font-family: 'Dawning of a New Day';
+
+}
+
+.quotes{
+  background-color:white;
+  margin-left:500px;
+  margin-right:500px;
+  border-color:white;
+  border-style:solid;
+  padding:20px;
+  border-radius:7px;
+}
+
+.quote{
+  font-size:30px;
+  font-style:italic;
+  margin-bottom:20px;
+  font-family: 'Marck Script'
+}
+
+.author{
+  margin-top:20px;
+  font-size:20px;
+  font-style:italic;
+}
